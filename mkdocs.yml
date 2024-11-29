@@ -34,7 +34,7 @@ plugins:
 extra:
   social:
     - icon: fontawesome/brands/github-alt
-      link: https://github.com/edgeradio993fm
+      link: https://github.com/alastairtech
 
 markdown_extensions:
   - pymdownx.highlight:
@@ -54,4 +54,4 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
 copyright: |
-  &copy; 2024 <a href="https://github.com/edgeradio993fm"  target="_blank" rel="noopener">Edge Radio 99.3FM</a>
+  &copy; 2024 <a href="https://github.com/alastairtech"  target="_blank" rel="noopener">Alastair.Tech</a>
